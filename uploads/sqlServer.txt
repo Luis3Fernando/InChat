@@ -1,0 +1,5 @@
+MSSQLSERVER01
+NOVA\Luis Fernando
+
+cadena de conexion
+Server=localhost\MSSQLSERVER01;Database=master;Trusted_Connection=True;
