@@ -29,7 +29,7 @@ in the project packages you will find a file called “server/Servidor”, and r
 **Step 2: Connect to the server**  
 Then start the main file “inchat/InChat”, it will show you the window where you can choose your user name and the IP address of the server:
 
-<img src="assets/screenshots/logi.png" width="600"/>
+<img src="assets/screenshots/login.png" width="600"/>
 
 **Step 3: Start chatting!**  
 Now you can invite your friends to connect to the server, following the same steps.
